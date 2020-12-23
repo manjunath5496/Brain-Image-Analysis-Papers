@@ -141,8 +141,7 @@ Connectivity in Autism Spectrum Disorders: A Review</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Image-Analysis-Papers/blob/master/br(76).pdf" style="text-decoration:none;">Brain Tumor Analysis Empowered with Deep Learning: A Review, Taxonomy, and Future Challenges</a></li>
   
   
-  
-    </ul>
+   </ul>
   
   
   
